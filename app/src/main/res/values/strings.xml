@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FCM fix</string>
+    <string name="service_notification_title">FCM fix đang bảo vệ</string>
+    <string name="service_notification_text">Giữ kết nối thông báo luôn sống</string>
+    <string name="channel_name">FCM fix Service</string>
+    <string name="channel_description">Thông báo dịch vụ bảo vệ FCM</string>
+</resources>
